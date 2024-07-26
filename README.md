@@ -2,6 +2,7 @@
 
 ## Kaggle
 ## Machine Learning
-* Polar
-    * [Polar 정리](Machine_Learning/Polar.md)
+* [Polar 정리](Machine_Learning/Polar/Polar.md)
+* 핸드온머신러닝
+    * [2장](Machine_Learning/HandsOn/2page.md)
 ## Deep Learning
