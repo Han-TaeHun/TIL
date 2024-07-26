@@ -3,5 +3,5 @@
 ## Kaggle
 ## Machine Learning
 * Polar
-    * [Polar 정리](https://github.com/Han-TaeHun/TIL/Machine_Learning/Polar.md)
+    * [Polar 정리](Machine_Learning/Polar.md)
 ## Deep Learning
