@@ -16,6 +16,7 @@
 * 핸드온머신러닝
     * [2장](Machine_Learning/HandsOn/2page.md)
     * [2_code](Machine_Learning/HandsOn/02_end_to_end.ipynb)
+    * [3_code](Machine_Learning/HandsOn/03_classification.ipynb)
 * scikit-learn
     * [StratifiedKFold](Machine_Learning/scikit-learn/StratifiedKFold.md)
 ## Deep Learning
