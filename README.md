@@ -17,4 +17,5 @@
 * scikit-learn
     * [StratifiedKFold](Machine_Learning/scikit-learn/StratifiedKFold.md)
 ## Deep Learning
-
+## 수학
+* [산술 & 기하 & 조화 평균](math/mean.md)
