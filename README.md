@@ -8,6 +8,7 @@
   * [copy_notebook1](Kaggle/Insurance_Cross_Selling/ps4e7_blender_of_generalization.ipynb)
 ## Machine Learning
 * [ensemble](Machine_Learning/ensemble/ensemble.md)
+* [표준화 & 정규화](Machine_Learning/normal_standard/normal_standard.md)
 * [ROC](Machine_Learning/ROC/ROC.md)
 * [Polar 정리](Machine_Learning/Polar/Polar.md)
 * [방사 기저 함수](Machine_Learning/RBF/RBF.md)
