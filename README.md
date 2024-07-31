@@ -1,10 +1,11 @@
-# Today I Learned - 내가 하루동안 배운 것은 무엇인가???
+# Today I Learned
 
 ## Kaggle
 * Instant_Gratification
   * [solution_study](Kaggle/Instant_Gratification/solution_study.ipynb)
 * Binary Classification of Insurance Cross Selling
   * [study](Kaggle/Insurance_Cross_Selling/study.ipynb)
+  * [copy_notebook1](Kaggle/Insurance_Cross_Selling/ps4e7_blender_of_generalization.ipynb)
 ## Machine Learning
 * [ROC](Machine_Learning/ROC/ROC.md)
 * [Polar 정리](Machine_Learning/Polar/Polar.md)
