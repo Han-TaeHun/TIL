@@ -33,4 +33,6 @@
 ## 메타코드
   * 데이터분석가 입문
     * 기초문법은 pass
-  
+    * [3-01](Machine_Learning/metacode/data_analyze/3-01_pd.read_csv&Tabular_data&data_type.md)
+    * [3-02](Machine_Learning/metacode/data_analyze/3-02_DataFrame_파악.ipynb)
+    * [3-03](Machine_Learning/metacode/data_analyze/3-03_columns&Series.ipynb)
