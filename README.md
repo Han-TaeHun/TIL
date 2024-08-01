@@ -36,3 +36,5 @@
     * [3-01](Machine_Learning/metacode/data_analyze/3-01_pd.read_csv&Tabular_data&data_type.md)
     * [3-02](Machine_Learning/metacode/data_analyze/3-02_DataFrame_파악.ipynb)
     * [3-03](Machine_Learning/metacode/data_analyze/3-03_columns&Series.ipynb)
+    * [3-04](Machine_Learning/metacode/data_analyze/3_04_indexing&sorting.ipynb)
+    * [3-05](Machine_Learning/metacode/data_analyze/3_05_filtering.ipynb)
