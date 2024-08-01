@@ -51,7 +51,7 @@ $$\text{기하 평균} = \sqrt[4]{2 \cdot 4 \cdot 6 \cdot 8} \approx 4.55$$
 
 ## 공식
 
-$${조화 평균} = \frac{n}{\sum_{i=1}^{n} \frac{1}{x_i}}$$
+$${조화 평균} = \frac{n}{\sum^{n}_{i=1} \frac{1}{x_i}}$$
 
 
 ## 예시
