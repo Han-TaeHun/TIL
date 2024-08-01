@@ -1,11 +1,15 @@
 # Today I Learned
 
+## Python
+
+
 ## Kaggle
 * Instant_Gratification
   * [solution_study](Kaggle/Instant_Gratification/solution_study.ipynb)
 * Binary Classification of Insurance Cross Selling
   * [study](Kaggle/Insurance_Cross_Selling/study.ipynb)
   * [copy_notebook1](Kaggle/Insurance_Cross_Selling/ps4e7_blender_of_generalization.ipynb)
+
 ## Machine Learning
 * [ensemble](Machine_Learning/ensemble/ensemble.md)
 * [표준화 & 정규화](Machine_Learning/normal_standard/normal_standard.md)
@@ -20,6 +24,13 @@
     * [10장](Machine_Learning/HandsOn/10page.md)
 * scikit-learn
     * [StratifiedKFold](Machine_Learning/scikit-learn/StratifiedKFold.md)
+
 ## Deep Learning
+
 ## 수학
 * [산술 & 기하 & 조화 평균](math/mean.md)
+
+## 메타코드
+  * 데이터분석가 입문
+    * 기초문법은 pass
+  
