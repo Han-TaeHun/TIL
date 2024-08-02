@@ -40,3 +40,4 @@
     * [3-05](Machine_Learning/metacode/data_analyze/3_05_filtering.ipynb)
     * [3-06](Machine_Learning/metacode/data_analyze/3_06_Dates&Times.ipynb)
     * [3-07](Machine_Learning/metacode/data_analyze/3_07_groupby.ipynb)
+    * [3-08](Machine_Learning/metacode/data_analyze/3_08_combine.ipynb)
