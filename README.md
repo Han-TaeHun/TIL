@@ -43,3 +43,4 @@
     * [3-08](Machine_Learning/metacode/data_analyze/3_08_combine.ipynb)
     * [3-09](Machine_Learning/metacode/data_analyze/3_09_pivot.ipynb)
     * [3-10](Machine_Learning/metacode/data_analyze/3_10_values&NA.ipynb)
+    * [3-11](Machine_Learning/metacode/data_analyze/3_99_마케팅_성과_자동화.ipynb)
