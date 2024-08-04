@@ -54,3 +54,4 @@
     * [4-03 histogrem,add_vline_annotation,update_xaxes](metacode/data_analyze/4_03_histogrem,add_vline_annotation,update_xaxes.ipynb)
     * [4-04 pie](metacode/data_analyze/4_04_pie.ipynb)
     * [4-05 pie](metacode/data_analyze/4_05_strip.ipynb)
+    * [4-06 pie](metacode/data_analyze/4_06_scatter.ipynb)
