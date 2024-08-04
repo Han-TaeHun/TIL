@@ -45,3 +45,4 @@
     * [3-10](Machine_Learning/metacode/data_analyze/3_10_values&NA.ipynb)
     * [3-11](Machine_Learning/metacode/data_analyze/3_99_마케팅_성과_자동화.ipynb)
     * [4-01](Machine_Learning/metacode/data_analyze/4_01_bar,tootip.ipynb)
+    * [4-02](Machine_Learning/metacode/data_analyze/4_02_line,_facet_row_col.ipynb)
