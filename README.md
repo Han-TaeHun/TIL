@@ -52,3 +52,5 @@
     * [4-01 bar,tootip](metacode/data_analyze/4_01_bar,tootip.ipynb)
     * [4-02 line,_facet_row_col](metacode/data_analyze/4_02_line,_facet_row_col.ipynb)
     * [4-03 histogrem,add_vline_annotation,update_xaxes](metacode/data_analyze/4_03_histogrem,add_vline_annotation,update_xaxes.ipynb)
+    * [4-04 pie](metacode/data_analyze/4_04_pie.ipynb)
+    * [4-05 pie](metacode/data_analyze/4_05_strip.ipynb)
