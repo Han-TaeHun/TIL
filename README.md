@@ -22,6 +22,7 @@
     * [2장](Machine_Learning/HandsOn/2page.md)
     * [2_code](Machine_Learning/HandsOn/02_end_to_end.ipynb)
     * [3_code](Machine_Learning/HandsOn/03_classification.ipynb)
+    * [4_code](Machine_Learning/HandsOn/04_training_linear_models.ipynb)
     * [10장](Machine_Learning/HandsOn/10page.md)
 * scikit-learn
     * [StratifiedKFold](Machine_Learning/scikit-learn/StratifiedKFold.md)
