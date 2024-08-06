@@ -65,3 +65,4 @@
     마케팅 데이터 분석 및 지표 정의하기
     * [5-01 attribution](metacode/data_analyze/5_01_attribution.ipynb)
     * [5-02 conversion_window](metacode/data_analyze/5_02_conversion_window.ipynb)
+    * [5-03 통합_데이터_분석](metacode/data_analyze/5_99_통합_데이터_분석과_마케팅_전략__EDA에서_광고_최적화까지.ipynb)
