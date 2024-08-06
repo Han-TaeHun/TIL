@@ -2,13 +2,15 @@
 
 ## Python
 
-
 ## Kaggle
-* Instant_Gratification
-  * [solution_study](Kaggle/Instant_Gratification/solution_study.ipynb)
-* Binary Classification of Insurance Cross Selling
-  * [study](Kaggle/Insurance_Cross_Selling/study.ipynb)
-  * [copy_notebook1](Kaggle/Insurance_Cross_Selling/ps4e7_blender_of_generalization.ipynb)
+* Play ground
+  * Instant_Gratification
+    * [solution_study](Kaggle/Instant_Gratification/solution_study.ipynb)
+  * Binary Classification of Insurance Cross Selling
+    * [study](Kaggle/Insurance_Cross_Selling/study.ipynb)
+    * [copy_notebook1](Kaggle/Insurance_Cross_Selling/ps4e7_blender_of_generalization.ipynb)
+  * Binary_Prediction_of_Poisonous_Mushrooms
+    * [study_1](Kaggle/Binary_Prediction_of_Poisonous_Mushrooms/beginner-s-first-step.ipynb)
 
 ## Machine Learning
 * [ensemble](Machine_Learning/ensemble/ensemble.md)
@@ -18,6 +20,7 @@
 * [방사 기저 함수](Machine_Learning/RBF/RBF.md)
 * [Stacking](Machine_Learning/Stacking/Stacking.md)
 * [MCC](Machine_Learning/MCC/MCC.md)
+* [범주형 데이터 전처리](Machine_Learning/Encoding/categorical.md)
 * 핸드온머신러닝
     * [2장](Machine_Learning/HandsOn/2page.md)
     * [2_code](Machine_Learning/HandsOn/02_end_to_end.ipynb)
