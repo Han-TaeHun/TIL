@@ -58,9 +58,9 @@
     * [4-02 line,_facet_row_col](metacode/data_analyze/4_02_line,_facet_row_col.ipynb)
     * [4-03 histogrem,add_vline_annotation,update_xaxes](metacode/data_analyze/4_03_histogrem,add_vline_annotation,update_xaxes.ipynb)
     * [4-04 pie](metacode/data_analyze/4_04_pie.ipynb)
-    * [4-05 pie](metacode/data_analyze/4_05_strip.ipynb)
-    * [4-06 pie](metacode/data_analyze/4_06_scatter.ipynb)
-    * [4-07 pie](metacode/data_analyze/4_99_제품_포트폴리오_분석.ipynb)
+    * [4-05 strip](metacode/data_analyze/4_05_strip.ipynb)
+    * [4-06 scatter](metacode/data_analyze/4_06_scatter.ipynb)
+    * [4-07 제품_포트폴리오_분석](metacode/data_analyze/4_99_제품_포트폴리오_분석.ipynb)
   
     마케팅 데이터 분석 및 지표 정의하기
     * [5-01 attribution](metacode/data_analyze/5_01_attribution.ipynb)
