@@ -74,3 +74,5 @@
     * [미분 가능성](metacode/differentiation/differentiation_2.md)
   * 통계 기초
     * [들어가며](metacode/statistics/intro.md)
+  * 선형대수학
+    * [들어가며](metacode/linear_algebra/intro.md)
