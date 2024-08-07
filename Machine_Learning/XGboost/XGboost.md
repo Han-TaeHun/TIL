@@ -1,3 +1,6 @@
+
+https://xgboost.readthedocs.io/en/latest/index.html
+
 XGBoost(eXtreme Gradient Boosting)는 Gradient Boosting 알고리즘을 기반으로 한 머신러닝 라이브러리입니다. 뛰어난 성능과 효율성으로 인해 다양한 데이터 과학 및 머신러닝 대회에서 자주 사용됩니다. 주요 특징과 개념은 다음과 같습니다 .**XGboost의 핵심 아이디어는 각 피처 데이터들을 일정 간격으로 나눠 최적의 분기점을 찾는다는 것이다**. 여러개의 Decision Tree를 조합해서 사용하는 Ensemble 알고리즘
 
 ![선택 영역_192](https://github.com/user-attachments/assets/e8c23ea2-7b3f-4dae-9cb3-c145c90a4d74)
