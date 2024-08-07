@@ -22,6 +22,7 @@
 * [MCC](Machine_Learning/MCC/MCC.md)
 * [범주형 데이터 전처리](Machine_Learning/Encoding/categorical.md)
 * [XGboost](Machine_Learning/XGboost/XGboost.md)
+* [LGBM](Machine_Learning/LGBM/LGBM.md)
 * 핸드온머신러닝
     * [2장](Machine_Learning/HandsOn/2page.md)
     * [2_code](Machine_Learning/HandsOn/02_end_to_end.ipynb)
