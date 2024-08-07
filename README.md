@@ -70,7 +70,7 @@
     * [5-03 통합_데이터_분석](metacode/data_analyze/5_99_통합_데이터_분석과_마케팅_전략__EDA에서_광고_최적화까지.ipynb)
 
   * 미분과 최적화
-    * [들어가며](metacode/differentiation/5_01_attribution.ipynb)
-    * [미분 가능성](metacode/differentiation/5_01_attribution.ipynb)
+    * [들어가며](metacode/differentiation/intro.md)
+    * [미분 가능성](metacode/differentiation/differentiation_2.md)
   * 통계 기초
-    * [들어가며](metacode/statistics/5_01_attribution.ipynb)
+    * [들어가며](metacode/statistics/intro.md)
