@@ -36,7 +36,7 @@
     * [ColumnTransformer](scikit-learn/ColumnTransformer.md)
     * [GridSearchCV](scikit-learn/GridSearchCV.md)
     * [SimpleImputer](scikit-learn/SimpleImputer.md)
-    * [cross_validate_score](scikit-learn/cross_validate_score.md)
+    * [cross_val_score](scikit-learn/cross_validate_score.md)
 
 ## Deep Learning
 
