@@ -52,3 +52,53 @@ predictions = pipeline.predict(X_test)
 
 - 각 열에 대해 설정된 변환기(transformer)를 적용합니다.
 - 변환된 데이터를 결합하여 새로운 데이터셋을 생성합니다.
+
+### 종합 예시: Pipeline과 ColumnTransformer 결합
+
+위의 개별 예시들을 결합하여 데이터의 수치형 및 범주형 특성에 대해 각기 다른 전처리를 수행한 후 로지스틱 회귀 모델을 학습시키는 전체적인 파이프라인을 만들 수 있습니다.
+
+```python
+python코드 복사
+from sklearn.compose import ColumnTransformer
+from sklearn.pipeline import Pipeline
+from sklearn.preprocessing import StandardScaler, OneHotEncoder
+from sklearn.impute import SimpleImputer
+from sklearn.linear_model import LogisticRegression
+
+# 수치형 특성에 대한 전처리 파이프라인
+numeric_features = ['numerical_feature1', 'numerical_feature2']
+numeric_transformer = Pipeline(steps=[
+    ('imputer', SimpleImputer(strategy='median')),
+    ('scaler', StandardScaler())
+])
+
+# 범주형 특성에 대한 전처리 파이프라인
+categorical_features = ['categorical_feature']
+categorical_transformer = Pipeline(steps=[
+    ('imputer', SimpleImputer(strategy='constant', fill_value='missing')),
+    ('onehot', OneHotEncoder(handle_unknown='ignore'))
+])
+
+# ColumnTransformer 설정
+preprocessor = ColumnTransformer(
+    transformers=[
+        ('num', numeric_transformer, numeric_features),
+        ('cat', categorical_transformer, categorical_features)
+    ]
+)
+
+# 전체 파이프라인 설정
+pipeline = Pipeline(steps=[
+    ('preprocessor', preprocessor),
+    ('classifier', LogisticRegression())
+])
+
+# 파이프라인 학습
+pipeline.fit(X_train, y_train)
+
+# 예측
+predictions = pipeline.predict(X_test)
+
+```
+
+이러한 방식으로 `Pipeline`, `make_pipeline`, `ColumnTransformer`를 결합하여 데이터 전처리 및 모델 학습 단계를 효율적으로 관리할 수 있습니다.
