@@ -30,7 +30,10 @@
     * [4_code](Machine_Learning/HandsOn/04_training_linear_models.ipynb)
     * [10장](Machine_Learning/HandsOn/10page.md)
 * scikit-learn
-    * [StratifiedKFold](Machine_Learning/scikit-learn/StratifiedKFold.md)
+    * [StratifiedKFold](scikit-learn/StratifiedKFold.md)
+    * [make_pipeline](scikit-learn/make_pipeline.md)
+    * [Pipeline](scikit-learn/Pipeline.md)
+    * [ColumnTransformer](scikit-learn/ColumnTransformer.md)
 
 ## Deep Learning
 
