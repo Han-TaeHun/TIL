@@ -11,6 +11,7 @@
     * [copy_notebook1](Kaggle/Insurance_Cross_Selling/ps4e7_blender_of_generalization.ipynb)
   * Binary_Prediction_of_Poisonous_Mushrooms
     * [study_1](Kaggle/Binary_Prediction_of_Poisonous_Mushrooms/beginner-s-first-step.ipynb)
+    * [study_2](Kaggle/Binary_Prediction_of_Poisonous_Mushrooms/beginner-s-first-step-2.ipynb)
 
 ## Machine Learning
 * [ensemble](Machine_Learning/ensemble/ensemble.md)
