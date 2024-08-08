@@ -34,6 +34,8 @@
     * [make_pipeline](scikit-learn/make_pipeline.md)
     * [Pipeline](scikit-learn/Pipeline.md)
     * [ColumnTransformer](scikit-learn/ColumnTransformer.md)
+    * [GridSearchCV](scikit-learn/GridSearchCV.md)
+    * [SimpleImputer](scikit-learn/SimpleImputer.md)
 
 ## Deep Learning
 
