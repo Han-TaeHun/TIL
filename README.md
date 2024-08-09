@@ -38,6 +38,7 @@
     * [GridSearchCV](scikit-learn/GridSearchCV.md)
     * [SimpleImputer](scikit-learn/SimpleImputer.md)
     * [cross_val_score](scikit-learn/cross_validate_score.md)
+    * [mutual_info_classif](scikit-learn/mutual_info_classif.md)
 
 ## Deep Learning
 
