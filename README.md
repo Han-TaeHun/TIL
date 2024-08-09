@@ -84,6 +84,7 @@
     * [도함수 법칙](metacode/differentiation/differentiation_3.md)
     * [연쇄 법칙](metacode/differentiation/differentiation_4.md)
     * [미분과 최적화](metacode/differentiation/differentiation_5.md)
+    * [고차 미분/ 다변수 함수의 미분](metacode/differentiation/differentiation_6.md)
   * 통계 기초
     * [들어가며](metacode/statistics/intro.md)
   * 선형대수학
