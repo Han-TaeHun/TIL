@@ -79,6 +79,8 @@
   * 미분과 최적화
     * [들어가며](metacode/differentiation/intro.md)
     * [미분 가능성](metacode/differentiation/differentiation_2.md)
+    * [도함수 법칙](metacode/differentiation/differentiation_3.md)
+    * [연쇄 법칙](metacode/differentiation/differentiation_4.md)
   * 통계 기초
     * [들어가며](metacode/statistics/intro.md)
   * 선형대수학
