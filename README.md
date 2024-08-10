@@ -45,6 +45,7 @@
 
 ## 수학
 * [산술 & 기하 & 조화 평균](math/mean.md)
+* [자연로그](math/natural_logarithm.md)
 
 ## 메타코드
   * 데이터분석가 입문
