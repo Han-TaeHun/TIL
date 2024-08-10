@@ -86,8 +86,10 @@
     * [미분과 최적화](metacode/differentiation/differentiation_5.md)
     * [고차 미분/ 다변수 함수의 미분](metacode/differentiation/differentiation_6.md)
     * [Gradient Descent 알아보기](metacode/differentiation/differentiation_7.md)
-    * [Jcobian](metacode/differentiation/differentiation_8.md)
+    * [Jacobian](metacode/differentiation/differentiation_8.md)
     * [Hessians](metacode/differentiation/differentiation_9.md)
+    * [예제](metacode/differentiation/differentiation_10.md)
+  
   * 통계 기초
     * [들어가며](metacode/statistics/intro.md)
   * 선형대수학
