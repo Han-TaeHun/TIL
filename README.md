@@ -90,6 +90,7 @@
     * [Jacobian](metacode/differentiation/differentiation_8.md)
     * [Hessians](metacode/differentiation/differentiation_9.md)
     * [예제](metacode/differentiation/differentiation_10.md)
+    * [딥러닝에서 chain rule](metacode/differentiation/differentiation_11.md)
   
   * 통계 기초
     * [들어가며](metacode/statistics/intro.md)
