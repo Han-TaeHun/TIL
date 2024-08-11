@@ -13,7 +13,7 @@
         - $\frac {dg} {dx} = e^{xln2}ln2$ $= 2^xln2$
             - 자연로그 성질을 적용함
     - x로 편미분
-        - $3^xy = e^{ln3xy} = e^{ln3xy}= e^{ln3xy}ln^{3y} -> 3^x(ln3)y$
+        - $3^{xy} = e^{ln3xy}= e^{ln3xy}ln3y -> 3^{xy}(ln3)y$
     - y로 편미분
         - $3^{xy}(ln3)x - zcos(y)$
     - z로 미분
