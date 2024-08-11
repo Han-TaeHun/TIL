@@ -93,6 +93,7 @@
     * [딥러닝에서 chain rule](metacode/differentiation/differentiation_11.md)
     * [테일러 급수](metacode/differentiation/differentiation_12.md)
     * [최적화 들어가며](metacode/differentiation/differentiation_13.md)
+    * [Gradient descent](metacode/differentiation/differentiation_14.md)
   
   * 통계 기초
     * [들어가며](metacode/statistics/intro.md)
