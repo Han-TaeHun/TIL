@@ -94,7 +94,8 @@
     * [테일러 급수](metacode/differentiation/differentiation_12.md)
     * [최적화 들어가며](metacode/differentiation/differentiation_13.md)
     * [Gradient descent](metacode/differentiation/differentiation_14.md)
-    * [step size](metacode/differentiation/differentiation_15.md)
+    * [step size 1](metacode/differentiation/differentiation_15.md)
+    * [step size 2](metacode/differentiation/differentiation_16.md)
   
   * 통계 기초
     * [들어가며](metacode/statistics/intro.md)
