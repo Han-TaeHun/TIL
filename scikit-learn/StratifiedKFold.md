@@ -90,3 +90,74 @@ print("Mean accuracy: ", sum(accuracies) / len(accuracies))
 - `StratifiedGroupKFoldGroupKFold`계층화된 폴드를 반환하려고 시도하는 동안 제약 조건을 유지합니다
 
 ![선택 영역_178](https://github.com/user-attachments/assets/279a66b5-0c78-44f9-a93d-a8de1168a488)
+
+### GroupKFold
+
+- **특징:**
+    - 데이터셋을 그룹 단위로 나누는 데 사용됩니다.
+    - 같은 그룹에 속한 데이터는 훈련 세트와 검증 세트에 중복되지 않도록 보장합니다.
+    - 그룹의 크기나 데이터의 클래스 분포는 고려하지 않습니다.
+- **사용 예시:**
+    - 같은 환자에게서 나온 의료 데이터.
+    - 동일 사용자가 여러 번 관측된 온라인 광고 데이터.
+- **사용법:**
+    
+    ```python
+    python코드 복사
+    from sklearn.model_selection import GroupKFold
+    
+    X = ...  # 데이터
+    y = ...  # 타겟
+    groups = ...  # 그룹
+    
+    gkf = GroupKFold(n_splits=5)
+    
+    for train_index, test_index in gkf.split(X, y, groups):
+        X_train, X_test = X[train_index], X[test_index]
+        y_train, y_test = y[train_index], y[test_index]
+    
+    ```
+    
+
+### StratifiedGroupKFold
+
+- **특징:**
+    - `GroupKFold`의 기능에 층화(stratification) 기능을 추가한 방법입니다.
+    - 그룹별로 나누면서 각 폴드가 전체 데이터의 클래스 분포를 반영하도록 합니다.
+    - 그룹 내 데이터가 폴드 간에 겹치지 않게 유지하면서도 클래스 간 불균형을 완화할 수 있습니다.
+- **사용 예시:**
+    - 그룹화된 의료 데이터에서 각 환자(그룹)의 다양한 검사 결과 중 타겟 변수가 불균형할 때.
+    - 동일 사용자가 여러 번 관측된 온라인 광고 데이터 중 타겟 변수가 불균형할 때.
+- **사용법:**
+    
+    ```python
+    python코드 복사
+    from sklearn.model_selection import StratifiedGroupKFold
+    
+    X = ...  # 데이터
+    y = ...  # 타겟
+    groups = ...  # 그룹
+    
+    sgkf = StratifiedGroupKFold(n_splits=5)
+    
+    for train_index, test_index in sgkf.split(X, y, groups):
+        X_train, X_test = X[train_index], X[test_index]
+        y_train, y_test = y[train_index], y[test_index]
+    
+    ```
+    
+
+### StratifiedKFold
+
+- **특징:**
+    - 데이터셋을 층화하여 나누는 데 사용됩니다.
+    - 각 폴드가 전체 데이터의 클래스 분포를 반영하도록 합니다.
+    - 그룹화된 데이터를 고려하지 않고 개별 데이터 포인트를 사용합니다.
+- **사용 예시:**
+    - 클래스 불균형이 있는 데이터셋에서 모델의 평가를 위해 사용합니다.
+
+### 요약
+
+- `GroupKFold`: 그룹화된 데이터에서 그룹 단위로 폴드를 나눕니다. 클래스 분포를 고려하지 않습니다.
+- `StratifiedGroupKFold`: 그룹화된 데이터에서 그룹 단위로 폴드를 나누면서도 클래스 분포를 유지합니다.
+- `StratifiedKFold`: 그룹을 고려하지 않고 데이터를 나누며, 각 폴드에서 클래스 분포를 유지합니다.
