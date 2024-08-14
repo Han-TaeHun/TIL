@@ -100,6 +100,7 @@
     * [Descent Direction](metacode/differentiation/differentiation_17.md)
     * [Constrained Optimization](metacode/differentiation/differentiation_18.md)
     * [Log Barrier Method](metacode/differentiation/differentiation_19.md)
+    * [Squared Penalty Method](metacode/differentiation/differentiation_20.md)
   
   * 통계 기초
     * [들어가며](metacode/statistics/intro.md)
