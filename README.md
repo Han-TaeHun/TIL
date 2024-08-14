@@ -99,6 +99,7 @@
     * [step size 2](metacode/differentiation/differentiation_16.md)
     * [Descent Direction](metacode/differentiation/differentiation_17.md)
     * [Constrained Optimization](metacode/differentiation/differentiation_18.md)
+    * [Log Barrier Method](metacode/differentiation/differentiation_19.md)
   
   * 통계 기초
     * [들어가며](metacode/statistics/intro.md)
