@@ -98,6 +98,7 @@
     * [step size 1](metacode/differentiation/differentiation_15.md)
     * [step size 2](metacode/differentiation/differentiation_16.md)
     * [Descent Direction](metacode/differentiation/differentiation_17.md)
+    * [Constrained Optimization](metacode/differentiation/differentiation_18.md)
   
   * 통계 기초
     * [들어가며](metacode/statistics/intro.md)
