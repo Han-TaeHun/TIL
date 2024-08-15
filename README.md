@@ -108,6 +108,7 @@
     * [들어가며](metacode/statistics/intro.md)
     * [중심](metacode/statistics/statics_1.md)
     * [산포](metacode/statistics/statics_2.md)
+    * [형태](metacode/statistics/statics_3.md)
 
   * 선형대수학
     * [들어가며](metacode/linear_algebra/intro.md)
