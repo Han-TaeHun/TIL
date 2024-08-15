@@ -101,10 +101,18 @@
     * [Constrained Optimization](metacode/differentiation/differentiation_18.md)
     * [Log Barrier Method](metacode/differentiation/differentiation_19.md)
     * [Squared Penalty Method](metacode/differentiation/differentiation_20.md)
+    * [라그랑주 승수법](metacode/differentiation/differentiation_21.md)
   
   * 통계 기초
     * [들어가며](metacode/statistics/intro.md)
     * [중심](metacode/statistics/statics_1.md)
+
   * 선형대수학
     * [들어가며](metacode/linear_algebra/intro.md)
     * [Dimension of Data](metacode/linear_algebra/algebra.md)
+
+
+  * 머신러닝 입문
+    * 
+  * 딥러닝 입문(pytorch)
+    * 
