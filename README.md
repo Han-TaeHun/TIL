@@ -117,11 +117,17 @@
 
 
   * 머신러닝 입문
-    * 
+
   * 딥러닝 입문(pytorch)
-    * [실습 1. Pytorch Fundamentals  - Tensor 다루기]
-      * <table align="left">
-          <td>
-            <a href="https://colab.research.google.com/drive/148X9RXHy7wE4miGQTZYgB6F1zfgqOpXg#scrollTo=gtziUGnhjER0" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-          </td>
-        </table>
+    * 실습 1. Pytorch Fundamentals  - Tensor 다루기  
+      <table>
+        <td>
+          <a href="https://colab.research.google.com/drive/148X9RXHy7wE4miGQTZYgB6F1zfgqOpXg#scrollTo=gtziUGnhjER0" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+        </td>
+      </table>
+    * [Neural Network - Matrix Multiplication](metacode\deep_learning\Neural_Network_3.md)
+      <table>
+        <td>
+          <a href="https://colab.research.google.com/drive/1xXve14QL__6ECjuqQ9DPh8DSHZ4zD47G" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+        </td>
+      </table>
