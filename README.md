@@ -102,6 +102,7 @@
     * [Log Barrier Method](metacode/differentiation/differentiation_19.md)
     * [Squared Penalty Method](metacode/differentiation/differentiation_20.md)
     * [라그랑주 승수법](metacode/differentiation/differentiation_21.md)
+    * [Convex Optimization](metacode/differentiation/differentiation_22.md)
   
   * 통계 기초
     * [들어가며](metacode/statistics/intro.md)
