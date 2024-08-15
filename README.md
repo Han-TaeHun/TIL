@@ -119,4 +119,4 @@
   * 머신러닝 입문
     * 
   * 딥러닝 입문(pytorch)
-    * 
+    * [실습 1. Pytorch Fundamentals  - Tensor 다루기](https://drive.google.com/file/d/148X9RXHy7wE4miGQTZYgB6F1zfgqOpXg/view?usp=sharing)
