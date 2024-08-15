@@ -119,4 +119,9 @@
   * 머신러닝 입문
     * 
   * 딥러닝 입문(pytorch)
-    * [실습 1. Pytorch Fundamentals  - Tensor 다루기](https://drive.google.com/file/d/148X9RXHy7wE4miGQTZYgB6F1zfgqOpXg/view?usp=sharing)
+    * [실습 1. Pytorch Fundamentals  - Tensor 다루기]
+      * <table align="left">
+          <td>
+            <a href="https://colab.research.google.com/drive/148X9RXHy7wE4miGQTZYgB6F1zfgqOpXg#scrollTo=gtziUGnhjER0" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+          </td>
+        </table>
