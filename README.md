@@ -112,6 +112,7 @@
     * [들어가며](metacode/linear_algebra/intro.md)
     * [Dimension of Data](metacode/linear_algebra/algebra.md)
     * [벡터](metacode/linear_algebra/algebra_2.md)
+    * [벡터 공간](metacode/linear_algebra/algebra_3.md)
 
 
   * 머신러닝 입문
