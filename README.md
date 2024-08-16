@@ -12,7 +12,9 @@
   * Binary_Prediction_of_Poisonous_Mushrooms
     * [study_1](Kaggle/Binary_Prediction_of_Poisonous_Mushrooms/beginner-s-first-step.ipynb)
     * [study_2](Kaggle/Binary_Prediction_of_Poisonous_Mushrooms/beginner-s-first-step-2.ipynb)
-
+  * ISIC_2024-Skin_Cancer_Detect_on_with_3D-TBP
+    * [study_1](Kaggle/ISIC_2024-Skin_Cancer_Detect_on_with_3D-TBP/beginner.ipynb)
+  
 ## Machine Learning
 * [ensemble](Machine_Learning/ensemble/ensemble.md)
 * [표준화 & 정규화](Machine_Learning/normal_standard/normal_standard.md)
@@ -98,36 +100,8 @@
     * [step size 1](metacode/differentiation/differentiation_15.md)
     * [step size 2](metacode/differentiation/differentiation_16.md)
     * [Descent Direction](metacode/differentiation/differentiation_17.md)
-    * [Constrained Optimization](metacode/differentiation/differentiation_18.md)
-    * [Log Barrier Method](metacode/differentiation/differentiation_19.md)
-    * [Squared Penalty Method](metacode/differentiation/differentiation_20.md)
-    * [라그랑주 승수법](metacode/differentiation/differentiation_21.md)
-    * [Convex Optimization](metacode/differentiation/differentiation_22.md)
   
   * 통계 기초
     * [들어가며](metacode/statistics/intro.md)
-    * [중심](metacode/statistics/statics_1.md)
-    * [산포](metacode/statistics/statics_2.md)
-    * [형태](metacode/statistics/statics_3.md)
-
   * 선형대수학
     * [들어가며](metacode/linear_algebra/intro.md)
-    * [Dimension of Data](metacode/linear_algebra/algebra.md)
-    * [벡터](metacode/linear_algebra/algebra_2.md)
-
-
-  * 머신러닝 입문
-
-  * 딥러닝 입문(pytorch)
-    * 실습 1. Pytorch Fundamentals  - Tensor 다루기  
-      <table>
-        <td>
-          <a href="https://colab.research.google.com/drive/148X9RXHy7wE4miGQTZYgB6F1zfgqOpXg#scrollTo=gtziUGnhjER0" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-        </td>
-      </table>
-    * [Neural Network - Matrix Multiplication](metacode\deep_learning\Neural_Network_3.md)
-      <table>
-        <td>
-          <a href="https://colab.research.google.com/drive/1xXve14QL__6ECjuqQ9DPh8DSHZ4zD47G" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-        </td>
-      </table>
