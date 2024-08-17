@@ -50,7 +50,8 @@
 * [산술 & 기하 & 조화 평균](math/mean.md)
 * [자연로그](math/natural_logarithm.md)
 
-## 메타코드
+## 메타코드m
+출처 - 메타코드m
   * 데이터분석가 입문
     <br>
     기초문법은 pass
@@ -137,5 +138,14 @@
       <table>
         <td>
           <a href="https://drive.google.com/file/d/1xXve14QL__6ECjuqQ9DPh8DSHZ4zD47G/view?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+        </td>
+      </table>
+    * Regression
+      * [Regression이란](metacode\deep_learning\Neural_Network_6.md)
+      * [Linear Regression](metacode\deep_learning\Neural_Network_7.md)
+      * Regression 실습
+      <table>
+        <td>
+          <a href="https://drive.google.com/file/d/1_1W1Vdwc9Wb-nESMXI_upgef9-ywojeD/view?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
         </td>
       </table>
