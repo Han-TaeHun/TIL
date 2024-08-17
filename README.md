@@ -149,3 +149,14 @@
           <a href="https://drive.google.com/file/d/1_1W1Vdwc9Wb-nESMXI_upgef9-ywojeD/view?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
         </td>
       </table>
+    
+    * CNN 
+      * [Vision Classification](https://www.notion.so/Vision-Classification-ff5cd85b61db4aa9b23d4968fad7f664?pvs=4)
+      * [Convolutional Neural Network(CNN) - part 1](https://www.notion.so/Convolutional-Neural-Network-CNN-part-1-06b84bd13eb44d18bf7b2520eca46bce?pvs=4)
+      * [Convolutional Neural Network(CNN) - part 2](https://www.notion.so/Convolutional-Neural-Network-CNN-part-2-129dbdbc98384b8bb5fa8907c355f007?pvs=4)
+      * CNN 실습
+      <table>
+        <td>
+          <a href="https://drive.google.com/file/d/1NquOYHK9M9ENuW7XkYwJWwGI9u3oZt5C/view?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+        </td>
+      </table>
