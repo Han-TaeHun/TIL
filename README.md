@@ -130,3 +130,12 @@
           <a href="https://colab.research.google.com/drive/1xXve14QL__6ECjuqQ9DPh8DSHZ4zD47G" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
         </td>
       </table>
+    * Loss Function
+      * [Loss Function](metacode\deep_learning\Neural_Network_4.md)
+      * [Loss 최적화 - Gradient Descent](metacode\deep_learning\Neural_Network_5.md)
+      * Loss 실습
+      <table>
+        <td>
+          <a href="https://drive.google.com/file/d/1xXve14QL__6ECjuqQ9DPh8DSHZ4zD47G/view?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+        </td>
+      </table>
