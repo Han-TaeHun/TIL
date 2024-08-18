@@ -160,3 +160,12 @@
           <a href="https://drive.google.com/file/d/1NquOYHK9M9ENuW7XkYwJWwGI9u3oZt5C/view?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
         </td>
       </table>
+
+    * Time Series Model 
+      * [Time Series Model](https://www.notion.so/Time-Series-Model-7d0cf11fad20419f960b7d8472b8e71d?pvs=4)
+      * Time Series Model 실습
+      <table>
+        <td>
+          <a href="https://drive.google.com/file/d/19LMw1AGpx23T7woec4-LTlhNxG3XCAXb/view?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+        </td>
+      </table>
