@@ -108,6 +108,7 @@
     * [산포](metacode/statistics/statics_2.md)
     * [형태](metacode/statistics/statics_3.md)
     * [상관](metacode/statistics/statics_4.md)
+    * [확률의 정의](https://www.notion.so/89398275a2b540c0a8654c01f234d770?pvs=4)
 
   * 선형대수학
     * [들어가며](metacode/linear_algebra/intro.md)
