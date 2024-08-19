@@ -28,10 +28,11 @@
 * [LGBM](Machine_Learning/LGBM/LGBM.md)
 * 핸드온머신러닝
     * [2장](Machine_Learning/HandsOn/2page.md)
-    * [2_code](Machine_Learning/HandsOn/02_end_to_end.ipynb)
-    * [3_code](Machine_Learning/HandsOn/03_classification.ipynb)
-    * [4_code](Machine_Learning/HandsOn/04_training_linear_models.ipynb)
-    * [5_code](Machine_Learning/HandsOn/05_support_vector_machines.ipynb)
+    * [end_to_end](Machine_Learning/HandsOn/02_end_to_end.ipynb)
+    * [classification](Machine_Learning/HandsOn/03_classification.ipynb)
+    * [training_linear_models](Machine_Learning/HandsOn/04_training_linear_models.ipynb)
+    * [support_vector_machines](Machine_Learning/HandsOn/05_support_vector_machines.ipynb)
+    * [decision_trees](https://colab.research.google.com/drive/1wvMs2V3FnUyAhEAC3kCyaeUQ9hFPexVu?usp=sharing)
     * [10장](Machine_Learning/HandsOn/10page.md)
 * scikit-learn
     * [StratifiedKFold](scikit-learn/StratifiedKFold.md)
