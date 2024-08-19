@@ -115,6 +115,7 @@
     * [Dimension of Data](metacode/linear_algebra/algebra.md)
     * [벡터](metacode/linear_algebra/algebra_2.md)
     * [벡터 공간](metacode/linear_algebra/algebra_3.md)
+    * [행렬](https://www.notion.so/ea7ed6a60eca4945aa1fb94bde05e34c?pvs=4)
 
 
   * 머신러닝 입문
