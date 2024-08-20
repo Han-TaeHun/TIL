@@ -14,6 +14,7 @@
     * [study_2](Kaggle/Binary_Prediction_of_Poisonous_Mushrooms/beginner-s-first-step-2.ipynb)
   * ISIC_2024-Skin_Cancer_Detect_on_with_3D-TBP
     * [study_1](Kaggle/ISIC_2024-Skin_Cancer_Detect_on_with_3D-TBP/beginner.ipynb)
+    * [study_2](https://drive.google.com/file/d/18wHSJqfKQ7a0TMTFnBpfFqg4DE3HrSYp/view?usp=sharing)
   
 ## Machine Learning
 * [ensemble](Machine_Learning/ensemble/ensemble.md)
