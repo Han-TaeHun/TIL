@@ -121,6 +121,9 @@
     * [벡터 공간](metacode/linear_algebra/algebra_3.md)
     * [행렬](https://www.notion.so/ea7ed6a60eca4945aa1fb94bde05e34c?pvs=4)
     * [행렬의 성질](https://www.notion.so/409deb710bdd4448a440f21d52dad403?pvs=4)
+    * [문제풀이 - 벡터의 덧셈과 곱셈](https://www.notion.so/2510a726af014eed9c8bcb486b3775ba?pvs=4)
+    * [문제풀이 - 행렬과 벡터 사이의 곱](https://www.notion.so/c0aea3cf804747218b51f2da06fba521?pvs=4)
+    * [문제풀이 - Linear combination의 기하학적 의미](https://www.notion.so/Linear-combination-11c11ddc85384fcc89f2e120862ed942?pvs=4)
 
 
   * 머신러닝 입문
