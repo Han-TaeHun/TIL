@@ -27,6 +27,7 @@
 * [범주형 데이터 전처리](Machine_Learning/Encoding/categorical.md)
 * [XGboost](Machine_Learning/XGboost/XGboost.md)
 * [LGBM](Machine_Learning/LGBM/LGBM.md)
+  
 * 핸드온머신러닝
     * [2장](Machine_Learning/HandsOn/2page.md)
     * [end_to_end](Machine_Learning/HandsOn/02_end_to_end.ipynb)
@@ -34,7 +35,9 @@
     * [training_linear_models](Machine_Learning/HandsOn/04_training_linear_models.ipynb)
     * [support_vector_machines](Machine_Learning/HandsOn/05_support_vector_machines.ipynb)
     * [decision_trees](https://colab.research.google.com/drive/1wvMs2V3FnUyAhEAC3kCyaeUQ9hFPexVu?usp=sharing)
+    * [ensemble_learning_and_random_forests](https://colab.research.google.com/drive/1O3RT4WM4Eg-TJJk9yfAwrwFMVoKBxyno?usp=sharing)
     * [10장](Machine_Learning/HandsOn/10page.md)
+  
 * scikit-learn
     * [StratifiedKFold](scikit-learn/StratifiedKFold.md)
     * [make_pipeline](scikit-learn/make_pipeline.md)
