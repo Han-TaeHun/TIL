@@ -114,6 +114,7 @@
     * [조건부 확률](https://www.notion.so/3847437bf39b4414a696fec66780c1e7?pvs=4)
     * [독립과 종속/베이즈 정리](https://www.notion.so/5076b3f349d2483a9a5951467226ba29?pvs=4)
     * [확률변수/이산확률변수/연속확률변수](https://www.notion.so/541a01bdc9dd4ef7b23e17036e6cf392?pvs=4)
+    * [기대값](https://www.notion.so/e7cbf19c180b49f18a49cf7c02fff762?pvs=4)
 
   * 선형대수학
     * [들어가며](metacode/linear_algebra/intro.md)
@@ -125,6 +126,10 @@
     * [문제풀이 - 벡터의 덧셈과 곱셈](https://www.notion.so/2510a726af014eed9c8bcb486b3775ba?pvs=4)
     * [문제풀이 - 행렬과 벡터 사이의 곱](https://www.notion.so/c0aea3cf804747218b51f2da06fba521?pvs=4)
     * [문제풀이 - Linear combination의 기하학적 의미](https://www.notion.so/Linear-combination-11c11ddc85384fcc89f2e120862ed942?pvs=4)
+    * [문제풀이 - 세 벡터의 조합](https://www.notion.so/9a6ea0bbef2443fba96bf2994a04e262?pvs=4)
+    * [문제풀이 - 조건에 맞게 벡터 조합하기](https://www.notion.so/fd697c1da66247d1be91b1d778ab3b52?pvs=4)
+    * [문제풀이 - 벡터의 기하학적 의미](https://www.notion.so/a0736206b5494de6aea08a7f50ba906c?pvs=4)
+    * [문제풀이 - 두 벡터 간의 각도 구하기](https://www.notion.so/90dc6777ab454a7c9fd8b8a1c9a5ed01?pvs=4)
 
 
   * 머신러닝 입문
