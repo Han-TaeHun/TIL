@@ -136,6 +136,9 @@
     * [문제풀이 - 조건에 맞게 벡터 조합하기](https://www.notion.so/fd697c1da66247d1be91b1d778ab3b52?pvs=4)
     * [문제풀이 - 벡터의 기하학적 의미](https://www.notion.so/a0736206b5494de6aea08a7f50ba906c?pvs=4)
     * [문제풀이 - 두 벡터 간의 각도 구하기](https://www.notion.so/90dc6777ab454a7c9fd8b8a1c9a5ed01?pvs=4)
+    * [문제풀이 - |u ⋅ v|≤||u||||v|| 공식 증명](https://www.notion.so/u-v-u-v-76269f4637d148fb9c43c07cd8660955?pvs=4)
+    * [문제풀이 - 벡터의 직교](https://www.notion.so/ee4647e1654d4b1a826bb64516e22d35?pvs=4)
+
 
 
   * 머신러닝 입문
