@@ -119,6 +119,7 @@
     * [확률변수/이산확률변수/연속확률변수](https://www.notion.so/541a01bdc9dd4ef7b23e17036e6cf392?pvs=4)
     * [기대값](https://www.notion.so/e7cbf19c180b49f18a49cf7c02fff762?pvs=4)
     * [분산과 표준편차](https://www.notion.so/9343855725a54b84bf059aabc7c322f8?pvs=4)
+    * [공분산과 상관계수](https://www.notion.so/7e4df82d33ea48c290ebe36c11ddd0fa?pvs=4)
 
   * 선형대수학
     * [들어가며](metacode/linear_algebra/intro.md)
