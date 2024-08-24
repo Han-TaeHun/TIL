@@ -120,6 +120,7 @@
     * [기대값](https://www.notion.so/e7cbf19c180b49f18a49cf7c02fff762?pvs=4)
     * [분산과 표준편차](https://www.notion.so/9343855725a54b84bf059aabc7c322f8?pvs=4)
     * [공분산과 상관계수](https://www.notion.so/7e4df82d33ea48c290ebe36c11ddd0fa?pvs=4)
+    * [확률과 확률변수 예제풀이](https://www.notion.so/5bb050ac5b7e45dc813c9e45b72e8cfb?pvs=4)
 
   * 선형대수학
     * [들어가며](metacode/linear_algebra/intro.md)
