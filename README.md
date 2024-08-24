@@ -118,6 +118,7 @@
     * [독립과 종속/베이즈 정리](https://www.notion.so/5076b3f349d2483a9a5951467226ba29?pvs=4)
     * [확률변수/이산확률변수/연속확률변수](https://www.notion.so/541a01bdc9dd4ef7b23e17036e6cf392?pvs=4)
     * [기대값](https://www.notion.so/e7cbf19c180b49f18a49cf7c02fff762?pvs=4)
+    * [분산과 표준편차](https://www.notion.so/9343855725a54b84bf059aabc7c322f8?pvs=4)
 
   * 선형대수학
     * [들어가며](metacode/linear_algebra/intro.md)
