@@ -37,6 +37,7 @@
     * [support_vector_machines](Machine_Learning/HandsOn/05_support_vector_machines.ipynb)
     * [decision_trees](https://colab.research.google.com/drive/1wvMs2V3FnUyAhEAC3kCyaeUQ9hFPexVu?usp=sharing)
     * [ensemble_learning_and_random_forests](https://colab.research.google.com/drive/1O3RT4WM4Eg-TJJk9yfAwrwFMVoKBxyno?usp=sharing)
+    * [dimensionality_reduction](https://colab.research.google.com/drive/1B80vpBLXVFVLvxCqOfgMfqRCZRXA7uep?usp=sharing)
     * [10장](Machine_Learning/HandsOn/10page.md)
   
 * scikit-learn
