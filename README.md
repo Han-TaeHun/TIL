@@ -16,6 +16,7 @@
     * [study_1](Kaggle/ISIC_2024-Skin_Cancer_Detect_on_with_3D-TBP/beginner.ipynb)
     * [study_2](https://drive.google.com/file/d/18wHSJqfKQ7a0TMTFnBpfFqg4DE3HrSYp/view?usp=sharing)
     * [study_3](https://drive.google.com/file/d/1nKSeC-wOPbxkvGGSyrYx_7yrmL8iTeIE/view?usp=sharing)
+    * [study_4](https://drive.google.com/file/d/1B5grIvCSyHpokdYpEjb7x0rmy1lnfG1K/view?usp=sharing)
   
 ## Machine Learning
 * [ensemble](Machine_Learning/ensemble/ensemble.md)
