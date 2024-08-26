@@ -123,6 +123,8 @@
     * [분산과 표준편차](https://www.notion.so/9343855725a54b84bf059aabc7c322f8?pvs=4)
     * [공분산과 상관계수](https://www.notion.so/7e4df82d33ea48c290ebe36c11ddd0fa?pvs=4)
     * [확률과 확률변수 예제풀이](https://www.notion.so/5bb050ac5b7e45dc813c9e45b72e8cfb?pvs=4)
+    * [이항분포/포아송분포](https://www.notion.so/1cbea8052ee5407bbe6506f98a95d076?pvs=4)
+    * [이산확률분포 예제풀이](https://www.notion.so/691b02518cb64d948a1360d4c8339324?pvs=4)
 
   * 선형대수학
     * [들어가며](metacode/linear_algebra/intro.md)
