@@ -53,6 +53,8 @@
     * [LabelEncoder](scikit-learn/LabelEncoder.md)
 
 ## Deep Learning
+* 자연어 처리와 컴퓨터비전 심층학습
+
 
 ## 수학
 * [산술 & 기하 & 조화 평균](math/mean.md)
