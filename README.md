@@ -126,6 +126,7 @@
     * [확률과 확률변수 예제풀이](https://www.notion.so/5bb050ac5b7e45dc813c9e45b72e8cfb?pvs=4)
     * [이항분포/포아송분포](https://www.notion.so/1cbea8052ee5407bbe6506f98a95d076?pvs=4)
     * [이산확률분포 예제풀이](https://www.notion.so/691b02518cb64d948a1360d4c8339324?pvs=4)
+    * [확률밀도함수](https://www.notion.so/Uniform-Distribution-23de761856b54127a02e16b0567afe2e?pvs=4)
 
   * 선형대수학
     * [들어가며](metacode/linear_algebra/intro.md)
