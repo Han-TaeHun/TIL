@@ -129,6 +129,7 @@
     * [확률밀도함수](https://www.notion.so/Uniform-Distribution-23de761856b54127a02e16b0567afe2e?pvs=4)
     * [정규분포](https://www.notion.so/af2e5a7fc9a943f798c83dcd1eede6dd?pvs=4)
     * [표본분포/중심극한정리](https://www.notion.so/b196115170a24ec99ac867a41cb4c15e?pvs=4)
+    * [카이제곱분포](https://www.notion.so/e132ed84317a4961bbc1df34e4f811fd?pvs=4)
 
   * 선형대수학
     * [들어가며](metacode/linear_algebra/intro.md)
