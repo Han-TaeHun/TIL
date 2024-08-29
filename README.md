@@ -153,6 +153,7 @@
     * [문제풀이 - 벡터의 직교](https://www.notion.so/ee4647e1654d4b1a826bb64516e22d35?pvs=4)
     * [행렬식](https://www.notion.so/Determinant-b07f087b86a1413fa16290a69f40d182?pvs=4)
     * [Dot prodcut](https://www.notion.so/Dot-product-fb0285d00c864e5a8f749de5e9a1fac9?pvs=4)
+    * [문제풀이 - 벡터 연산의 최대, 최소 구하기](https://www.notion.so/689febbce4fc4aecb3f22e8b3a30d658?pvs=4)
 
 
 
