@@ -17,6 +17,7 @@
     * [study_2](https://drive.google.com/file/d/18wHSJqfKQ7a0TMTFnBpfFqg4DE3HrSYp/view?usp=sharing)
     * [study_3](https://drive.google.com/file/d/1nKSeC-wOPbxkvGGSyrYx_7yrmL8iTeIE/view?usp=sharing)
     * [study_4](https://drive.google.com/file/d/1B5grIvCSyHpokdYpEjb7x0rmy1lnfG1K/view?usp=sharing)
+    * [study_5](https://drive.google.com/file/d/1B5grIvCSyHpokdYpEjb7x0rmy1lnfG1K/view?usp=sharing)
   
 ## Machine Learning
 * [ensemble](Machine_Learning/ensemble/ensemble.md)
