@@ -58,6 +58,7 @@
   * [03 파이토치 기초](https://www.notion.so/03-0b20af3c9fef46c983bb60a39cff3ea3?pvs=4)
   * [04 파이토치 심화](https://www.notion.so/04-8c516a72c199409ab6bd0bb13d5e50bb?pvs=4)
   * [08 이미지 분류](https://www.notion.so/08-cdeaef72acf44da29bf0d23c212ffe09?pvs=4)
+  * [09 객체 탐지](https://www.notion.so/08-cdeaef72acf44da29bf0d23c212ffe09?pvs=4)
     
 
 ## 수학
