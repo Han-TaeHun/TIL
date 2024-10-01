@@ -59,7 +59,9 @@
   * [04 파이토치 심화](https://www.notion.so/04-8c516a72c199409ab6bd0bb13d5e50bb?pvs=4)
   * [08 이미지 분류](https://www.notion.so/08-cdeaef72acf44da29bf0d23c212ffe09?pvs=4)
   * [09 객체 탐지](https://www.notion.so/09-10261dbefd0f804cbed7e2e938ed57dd?pvs=4)
-    
+  * [10 비전 트랜스포머](https://www.notion.so/10-10861dbefd0f8087b5a7f891916a0288?pvs=4)
+  * [11 모델 배포](https://www.notion.so/11-11261dbefd0f80f09d74c88edd6bad9d?pvs=4)
+  
 
 ## 수학
 * [산술 & 기하 & 조화 평균](math/mean.md)
